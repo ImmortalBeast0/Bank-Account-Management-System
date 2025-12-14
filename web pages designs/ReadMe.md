@@ -1,5 +1,5 @@
 This repository contains the complete design set for the Bank Account Management System web application.
-All the UI/UX pages were created in Figma based on my ideas, with support from Builder.io AI during the design process.
+All the UI/UX pages were created in Figma based on my ideas, with support from Builder.io AI and CodeTea AI tools to generate pages idea into Figma designs .
 
 These designs represent the structure, layout, and overall flow of the application’s frontend.
 I’ll continue updating the files as the project moves forward.
