@@ -1,0 +1,2 @@
+Purpose of this is understanding the concept of FullStack Project,
+The real Web development work flow for common understanding.

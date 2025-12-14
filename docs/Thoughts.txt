@@ -1,0 +1,6 @@
+Thoughts
+
+The docs folder contains some workflow notes in the README.
+I’m planning to use AI tools to generate the module structure and the Figma design for this project.
+
+If anything here is incorrect, let me know.
